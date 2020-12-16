@@ -3,7 +3,7 @@
 [![Maintenance](https://img.shields.io/maintenance/yes/2020?style=flat-square)](https://github.com/himawanTIF/pwd-9/graphs/commit-activity)
 
 # Praktikum Pemrograman Web Dinamis Pertemuan 9
-[https://youtu.be/ybPPP9uREco](Link Video Materi)
+[Link Video Materi](https://youtu.be/ybPPP9uREco)
 
 # Materi
 __JSON__ & __XML__
