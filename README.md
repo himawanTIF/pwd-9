@@ -16,17 +16,18 @@ __JSON__ & __XML__
 > **Struktur JSON**
 >
 > 1. Bentuk pasangan __*key:value*__ yang pada Javascript disebut objek, atau pada PHP disebut __*associative array*__. Contoh:
-> 
->> { </br>
->>   "nama":"Budi Santosa", </br>
->>   "Alamat":"Yogyakarta" </br>
->> }
->
+```json
+{ 
+   "nama":"Budi Santosa",
+   "alamat":"Yogyakarta"
+}
+```
 > Selanjutnya, dalam JSON bentuk di atas disebut **objek** (*Object*).
 >
 > 2. Bentuk sederetan *value* saja (meskipun *value* tersebut juga dapat berbentuk objek), yang dalam Javascript dan PHP disebut __*array*__. Contoh:
->> ["Budi Santosa","Yogyakarta"]
->
+```array
+ ["Budi Santosa","Yogyakarta"]
+```
 > Selanjutnya, dalam JSON bentuk di atas disebut __*array*__.
 
 > **Tipe data JSON**
