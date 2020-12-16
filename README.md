@@ -36,7 +36,7 @@ __JSON__ & __XML__
 >
 > 1. **Objek**. Objek merupakan kumpulan pasangan *key* dan *value* yang diapit dengan kurung buka dan kurung tutup. Karena objek ini mencerminkan *associative array*, maka direkomendasikan agar tidak menggunakan *key* dengan nilai sama (*key* sebaiknya unik). Objek ini bileh bernilai kosong dan cukup ditulis { }
 > 2. **Array**. Sederetan *value* yang diapit oleh kurung siku. Antara *value* yang satu dengan yang lain dipisahkan tanda koma. *Array* boleh bernilai kosong dan cukup ditulis [ ]
-> 3. **Number**. *Number* berupa digit 0-9 dan ditulis apa adanya tanpa perlu menggunakan tanda kutip. *Number* dapat berupa bilangan bulat maupaun desimal. Untuk desimal, karakter yang digunakan adalah titik bukan koma. Misal untuk menuliskan dua koma lima, bentuk angkanya adalah 2.5 bukan 2,5
+> 3. **Number**. *Number* berupa digit 0-9 dan ditulis apa adanya tanpa perlu menggunakan tanda kutip. *Number* dapat berupa bilangan bulat maupun desimal. Untuk desimal, karakter yang digunakan adalah titik bukan koma. Misal untuk menuliskan dua koma lima, bentuk angkanya adalah 2.5 bukan 2,5
 > 4. **Boolean**. Boolean berupa teks __*true*__ dan __*false*__ tanpa tanda kutip.
 > 5. **Null**. Null berupa teks null dan ditulis langsung tanpa tanda kutip.
 > 6. **String**. String berupa semua karakter *Unicode* yang artinya semua karakter yang ada di dunia ini. String merupakan tipe data yang **paling sering digunakan**, dalam penulisannya, string **harus** diapit dengan dua tanda kutip ("), tidak boleh menggunakan satu tanda kutip (') atau tidak menggunakan tanda kutip sama sekali.
